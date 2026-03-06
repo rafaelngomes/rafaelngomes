@@ -9,9 +9,9 @@
 ## 👨‍💻 Sobre mim
 
 * 📚 Atualmente cursando **Sistemas de Informação**
-* 💻 Experiência com **Java, SQL e Redes de Computadores**
-* 🛠 Conhecimento em **infraestrutura, suporte e banco de dados**
-* 📊 Interesse em **análise de dados e cloud**
+* 💻 Experiência com **Suporte e Redes de Computadores**
+* 🛠 Conhecimento em **Infraestrutura, Suporte e Banco de dados**
+* 📊 Interesse em **Análise de dados e Cloud**
 * 🚀 Sempre buscando aprender novas tecnologias
 
 ---
